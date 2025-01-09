@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project the react version of [BioFlora Page](https://github.com/LyanBrito/bioflora-page-HTML)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
